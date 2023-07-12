@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "474134453570",
+    "firebase_url": "https://fir-objectspawner-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-objectspawner",
+    "storage_bucket": "fir-objectspawner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474134453570:android:584bc5a9a48c131110fcdb",
+        "android_client_info": {
+          "package_name": "com.Codeo.FirebaseObjectSpawner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474134453570-ck74qqrtf1njueurvgguerofks1pdb6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSTZqj71vZQi7cokm-0wgj2E8UAtbmlDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474134453570-ck74qqrtf1njueurvgguerofks1pdb6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
